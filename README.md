@@ -1,1 +1,2 @@
 # ATM-Project
+This projects uses the ideas of object-oriented programming very well and it replicates the operation of an actual ATM. Customers can easily and securely do a variety of banking transactions with its user-friendly interface. It includes many features such as a secure login system that verifies user credentials, such as a unique account number and a confidential PIN, Customers can check their account balance, view transaction history, and can also withdraw money and transfer funds. It also has deposit functionality.
